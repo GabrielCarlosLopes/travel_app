@@ -24,9 +24,6 @@ Neste projeto foi utilizada as seguintes ferramentas:
   
 
 -  [Flutter]((https://flutter.dev/)) - O framework mobile utilizado
-
--  [Firebase]((https://firebase.google.com/?hl=pt-br)) - Banco de Dados
-
   
 
 ## 🎨 Layout
